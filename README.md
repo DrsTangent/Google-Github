@@ -1,2 +1,1 @@
-# Google-Github
-Just a repository to complete google task.
+I am editing the README file. Adding some more ddetails about the project description.
